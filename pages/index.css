@@ -87,7 +87,7 @@
   display: block;
 }
 
-.header__img {
+.header__image {
   width: 646px;
   height: 568px;
   position: absolute;
@@ -168,7 +168,7 @@
   justify-content: space-between;
 }
 
-.recipes__iframe-video {
+.recipes__iframe {
   width: 480px;
   height: 274px;
   border: 0px;
