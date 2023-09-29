@@ -28,7 +28,7 @@
   margin: 0px;
   list-style-type: none;
   font-family: "Inter", Arial, sans-serif;
-  font-size: normal;
+  font-size: 16px;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -54,7 +54,7 @@
 
 .header__title {
   font-weight: 500;
-  max-width: 729;
+  max-width: 729px;
   font-size: 60px;
   line-height: 70px;
   margin: 183px 0 0;
