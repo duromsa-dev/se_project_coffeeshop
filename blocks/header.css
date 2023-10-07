@@ -9,6 +9,7 @@
   padding: 30px 80px 40px;
   background-image: url(../images/background_header.svg);
   background-size: cover;
+  position: relative;
 }
 
 .header__title {
