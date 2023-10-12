@@ -61,12 +61,9 @@
   display: flex;
   margin-top: auto;
   justify-content: space-between;
+  align-items: flex-end;
 }
 .header__paragraph {
-  font-family: "Noto Serif", "Times New Roman", sans-serif;
-  margin: 0;
-}
-
-.header__address {
   font-family: "Inter", Arial, sans-serif;
+  margin: 0px;
 }

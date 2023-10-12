@@ -5,28 +5,27 @@
 }
 
 .menu__title {
-  text-align: center;
-  margin: 0 0 24px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 24px;
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  max-width: 780px;
 }
 
 .menu__subtitle {
   text-align: center;
-  margin: 0px;
+  margin: 0px auto;
   padding: 0px;
   font-family: "Noto Serif";
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
-}
-
-.menu__span-accent {
-  display: block;
+  max-width: 780px;
 }
 
 .menu__cards {

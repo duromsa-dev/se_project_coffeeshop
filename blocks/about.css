@@ -29,22 +29,18 @@
   position: relative;
   max-width: 251px;
   z-index: 1;
-  font-family: Inter;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
 }
 
-.about__accent-span {
-  display: block;
-}
-
 .about__content {
   color: white;
   max-width: 660px;
   margin: 19px 0px 0px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -52,6 +48,7 @@
 }
 
 .about__paragraph {
+  margin-top: 0;
   margin-bottom: 20px;
 }
 
@@ -72,7 +69,4 @@
 
 .about__circle_animation_blurred {
   animation: pulsate 1.3s ease-in-out infinite;
-  position: absolute;
-  top: -152px;
-  left: -129px;
 }
